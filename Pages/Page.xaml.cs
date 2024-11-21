@@ -7,8 +7,8 @@ public partial class Page : ContentPage
 		InitializeComponent();
 	}
 
-    private async void ImageButton_Clicked(object sender, EventArgs e)
+    private async void btnMainPage_Clicked(object sender, EventArgs e)
     {
-		await Navigation.PushModalAsync(new MainPage());
+        await Navigation.PushModalAsync(new MainPage());
     }
 }

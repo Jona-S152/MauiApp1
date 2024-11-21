@@ -5,8 +5,17 @@
 
     <ScrollView>
         <VerticalStackLayout
-            Padding="30,0"
+            Padding="0"
             Spacing="25">
+            <AbsoluteLayout>
+                <ImageButton
+                    AbsoluteLayout.LayoutBounds="0, 4, 50, 30"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    WidthRequest="40"
+                    HeightRequest="40"
+                    Source="arrow_back.png"
+                    Clicked="ImageButton_Clicked"/>
+            </AbsoluteLayout>
             <Image
                 Source="dotnet_bot.png"
                 HeightRequest="185"
@@ -24,12 +33,6 @@
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
 
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me" 
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Fill" />
         </VerticalStackLayout>
     </ScrollView>
 

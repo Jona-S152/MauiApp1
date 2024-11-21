@@ -12,71 +12,71 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MauiApp1
-build_property.ProjectDir = E:\Soluciones.NET\MauiApp1\
+build_property.ProjectDir = C:\Users\viamatica\Desktop\MauiApp1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[E:/Soluciones.NET/MauiApp1/App.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[E:/Soluciones.NET/MauiApp1/AppShell.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[E:/Soluciones.NET/MauiApp1/MainPage.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[E:/Soluciones.NET/MauiApp1/Pages/Page.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/Pages/Page.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.Page.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Page.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Page.xaml
 
-[E:/Soluciones.NET/MauiApp1/Pages/Page1.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/Pages/Page1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.Page1.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Page1.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Page1.xaml
 
-[E:/Soluciones.NET/MauiApp1/Pages/Page2.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/Pages/Page2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.Page2.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Page2.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Page2.xaml
 
-[E:/Soluciones.NET/MauiApp1/Pages/Page3.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/Pages/Page3.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.Page3.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Page3.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Page3.xaml
 
-[E:/Soluciones.NET/MauiApp1/Pages/Page4.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/Pages/Page4.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.Page4.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Page4.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Page4.xaml
 
-[E:/Soluciones.NET/MauiApp1/Pages/TabbedPageT.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/Pages/TabbedPageT.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.TabbedPageT.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\TabbedPageT.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\TabbedPageT.xaml
 
-[E:/Soluciones.NET/MauiApp1/Resources/Styles/Colors.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[E:/Soluciones.NET/MauiApp1/Resources/Styles/Styles.xaml]
+[C:/Users/viamatica/Desktop/MauiApp1/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
