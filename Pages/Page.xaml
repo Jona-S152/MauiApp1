@@ -3,25 +3,29 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp1.Pages.Page"
              IconImageSource="home.png"
-             BackgroundColor="Black">
+             BackgroundColor="#191414">
 
     <ScrollView>
         <VerticalStackLayout Padding="20" Spacing="20">
 
             <HorizontalStackLayout Spacing="10">
                 <Button CornerRadius="50"
-                        BackgroundColor="GreenYellow"
-                        Text="Inicio"
+                        BackgroundColor="#1db954"
+                        Text="Todos"
+                        TextColor="Black"
+                        FontAttributes="Bold"
                         Padding="10, 0"
                         HeightRequest="30"/>
                 <Button CornerRadius="50"
-                        BackgroundColor="Gray"
-                        Text="Canciones"
+                        BackgroundColor="#252020"
+                        Text="Música"
+                        FontAttributes="Bold"
                         Padding="10, 0"
                         HeightRequest="30"/>
                 <Button CornerRadius="50"
-                        BackgroundColor="Gray"
-                        Text="Podcasts"
+                        BackgroundColor="#252020"
+                        Text="Pódcasts"
+                        FontAttributes="Bold"
                         Padding="10, 0"
                         HeightRequest="30"/>
                 
@@ -41,10 +45,11 @@
                 </Grid.ColumnDefinitions>
 
                 <Frame 
-                    BorderColor="Black"
-                    BackgroundColor="Gray"
+                    BorderColor="#191414"
+                    BackgroundColor="#252020"
                     Padding="0"
-                    HasShadow="True">
+                    HasShadow="True"
+                    CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
                             Margin="0"
@@ -65,10 +70,12 @@
                 </Frame>
 
                 <Frame
-                    BackgroundColor="Gray" Grid.Column="1"
+                    BackgroundColor="#252020" 
+                    Grid.Column="1"
                     Padding="0"
                     HasShadow="True"
-                    BorderColor="Black">
+                    BorderColor="#191414"
+                    CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
                             Source="oip.jpg"
@@ -89,10 +96,11 @@
                 </Frame>
 
                 <Frame
-                    BackgroundColor="Gray" Grid.Row="1"
+                    BackgroundColor="#252020" Grid.Row="1"
                     Padding="0"
                     HasShadow="True"
-                    BorderColor="Black">
+                    BorderColor="#191414"
+                    CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
                             Source="oip.jpg"
@@ -113,10 +121,11 @@
                 </Frame>
 
                 <Frame
-                    BackgroundColor="Gray" Grid.Row="1" Grid.Column="1"
+                    BackgroundColor="#252020" Grid.Row="1" Grid.Column="1"
                     Padding="0"
                     HasShadow="True"
-                    BorderColor="Black">
+                    BorderColor="#191414"
+                    CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
                             Source="oip.jpg"
@@ -137,10 +146,11 @@
                 </Frame>
 
                 <Frame
-                    BackgroundColor="Gray" Grid.Row="2"
+                    BackgroundColor="#252020" Grid.Row="2"
                     Padding="0"
                     HasShadow="True"
-                    BorderColor="Black">
+                    BorderColor="#191414"
+                    CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
                             Source="oip.jpg"
@@ -161,10 +171,13 @@
                 </Frame>
 
                 <Frame
-                    BackgroundColor="Gray" Grid.Row="2" Grid.Column="1"
+                    BackgroundColor="#252020" 
+                    Grid.Row="2" 
+                    Grid.Column="1"
                     Padding="0"
                     HasShadow="True"
-                    BorderColor="Black">
+                    BorderColor="#191414"
+                    CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
                             Source="oip.jpg"
@@ -185,10 +198,12 @@
                 </Frame>
 
                 <Frame
-                    BackgroundColor="Gray" Grid.Row="3"
+                    BackgroundColor="#252020" 
+                    Grid.Row="3"
                     Padding="0"
                     HasShadow="True"
-                    BorderColor="Black">
+                    BorderColor="#191414"
+                    CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
                             Source="oip.jpg"
@@ -209,10 +224,13 @@
                 </Frame>
 
                 <Frame
-                    BackgroundColor="Gray" Grid.Row="3" Grid.Column="1"
+                    BackgroundColor="#252020" 
+                    Grid.Row="3" 
+                    Grid.Column="1"
                     Padding="0"
                     HasShadow="True"
-                    BorderColor="Black">
+                    BorderColor="#191414"
+                    CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
                             Source="oip.jpg"
@@ -234,48 +252,218 @@
 
             </Grid>
 
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="65"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Frame 
+                    Padding="0"
+                    Margin="0"
+                    HeightRequest="50"
+                    WidthRequest="50"
+                    HorizontalOptions="Start"
+                    BorderColor="#191414"
+                    CornerRadius="50">
+                    <Image
+                        Margin="0"
+                        Source="oip.jpg"
+                        WidthRequest="50"
+                        HeightRequest="50"/>
+                </Frame>
+
+                <Grid Grid.Column="1"
+                      HorizontalOptions="Start">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Label 
+                        Text="Nuevo contenido de"
+                        TextColor="Gray"/>
+
+                    <Label 
+                        Grid.Row="1"
+                        Text="Billie Eilish"
+                        TextColor="White"
+                        FontAttributes="Bold"
+                        FontSize="Large"/>
+                </Grid>
+            </Grid>
+
+            <Frame
+                HorizontalOptions="Fill"
+                Margin="0"
+                Padding="0"
+                Grid.Row="1"
+                BorderColor="#191414"
+                BackgroundColor="#252020">
+                <Grid Margin="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image
+                        HorizontalOptions="Start"
+                        HeightRequest="150"
+                        WidthRequest="150"
+                        Source="oip.jpg"
+                        Margin="0"/>
+
+                    <VerticalStackLayout Grid.Column="1" Margin="15, 20">
+                        <Label
+                            Text="CHIHIRO"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            FontSize="Header"/>
+
+                        <Label
+                            Grid.Row="1"
+                            Text="Sencillo Billie Eilish"
+                            TextColor="Gray"/>
+
+                        <AbsoluteLayout>
+                            <Image 
+                                AbsoluteLayout.LayoutBounds="0, 4, 30, 40"
+                                AbsoluteLayout.LayoutFlags="PositionProportional"
+                                Source="add_circle.png"
+                                HeightRequest="30"
+                                WidthRequest="30"/>
+
+                            <Image
+                                AbsoluteLayout.LayoutBounds="1, 4, 40, 40"
+                                AbsoluteLayout.LayoutFlags="PositionProportional"
+                                Source="play_circle.png"
+                                HeightRequest="40"
+                                WidthRequest="40"/>
+                        </AbsoluteLayout>
+                    </VerticalStackLayout>
+                </Grid>
+            </Frame>
+
             <Label
-                Text="Ultima playlist"
+                Text="Especialmente para ti"
+                FontSize="Large"
                 TextColor="White"
                 FontAttributes="Bold"/>
 
-            <HorizontalStackLayout Padding="0" Spacing="15">
-                <Image 
-                    Margin="0"
-                    Source="oip.jpg"
-                    HeightRequest="100"
-                    WidthRequest="100"/>
+            <HorizontalStackLayout Padding="0">
+                <Grid ColumnSpacing="20" RowSpacing="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
 
-                <Image 
-                    Margin="0"
-                    Source="oip.jpg"
-                    HeightRequest="100"
-                    WidthRequest="100"/>
-                
-                <Image 
-                    Margin="0"
-                    Source="oip.jpg"
-                    HeightRequest="100"
-                    WidthRequest="100"/>
-                
-                <Image 
-                    Margin="0"
-                    Source="oip.jpg"
-                    HeightRequest="100"
-                    WidthRequest="100"/>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
 
-                <Image 
-                    Margin="0"
-                    Source="oip.jpg"
-                    HeightRequest="100"
-                    WidthRequest="100"/>
+                    <Image 
+                        Margin="0"
+                        Source="oip.jpg"
+                        HeightRequest="150"
+                        WidthRequest="150"/>
 
+                    <Label 
+                        Grid.Row="1" 
+                        MaximumWidthRequest="80" 
+                        HorizontalOptions="Start" 
+                        Text="Prueba" 
+                        TextColor="Gray"/>
+                    
+                    <Image 
+                        Grid.Column="1"
+                        Margin="0"
+                        Source="oip.jpg"
+                        HeightRequest="150"
+                        WidthRequest="150"/>
+
+                    <Label 
+                        Grid.Row="1"
+                        Grid.Column="1"
+                        MaximumWidthRequest="80" 
+                        HorizontalOptions="Start" 
+                        Text="Prueba" 
+                        TextColor="Gray"/>
+                    
+                    <Image 
+                        Grid.Column="2"
+                        Margin="0"
+                        Source="oip.jpg"
+                        HeightRequest="150"
+                        WidthRequest="150"/>
+
+                    <Label 
+                        Grid.Row="1" 
+                        Grid.Column="2"
+                        MaximumWidthRequest="80" 
+                        HorizontalOptions="Start" 
+                        Text="Prueba" 
+                        TextColor="Gray"/>
+                    
+                    <Image 
+                        Grid.Column="3"
+                        Margin="0"
+                        Source="oip.jpg"
+                        HeightRequest="150"
+                        WidthRequest="150"/>
+
+                    <Label 
+                        Grid.Row="1" 
+                        Grid.Column="3"
+                        MaximumWidthRequest="80" 
+                        HorizontalOptions="Start" 
+                        Text="Prueba" 
+                        TextColor="Gray"/>
+                    
+                    <Image 
+                        Grid.Column="4"
+                        Margin="0"
+                        Source="oip.jpg"
+                        HeightRequest="150"
+                        WidthRequest="150"/>
+
+                    <Label 
+                        Grid.Row="1"
+                        Grid.Column="4"
+                        MaximumWidthRequest="80" 
+                        HorizontalOptions="Start" 
+                        Text="Prueba" 
+                        TextColor="Gray"/>
+                    
+                    <Image 
+                        Grid.Column="5"
+                        Margin="0"
+                        Source="oip.jpg"
+                        HeightRequest="150"
+                        WidthRequest="150"/>
+
+                    <Label 
+                        Grid.Row="1" 
+                        Grid.Column="5"
+                        MaximumWidthRequest="80" 
+                        HorizontalOptions="Start" 
+                        Text="Prueba" 
+                        TextColor="Gray"/>
+
+                </Grid>
             </HorizontalStackLayout>
 
             <Button 
                 x:Name="btnMainPage"
-                Text="Go to mainPage"
-                BackgroundColor="CornflowerBlue"
+                CornerRadius="50"
+                Text="Go to main page"
+                TextColor="Black"
+                FontAttributes="Bold"
+                BackgroundColor="#1db954"
                 Margin="10"
                 HorizontalOptions="Center"
                 Clicked="btnMainPage_Clicked"/>

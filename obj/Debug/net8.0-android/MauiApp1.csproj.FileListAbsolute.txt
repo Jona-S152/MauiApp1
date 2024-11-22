@@ -2097,3 +2097,7 @@ C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\stamp\_GenerateJava
 C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\oip.jpg
+E:\Soluciones.NET\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\oip.jpg
+E:\Soluciones.NET\MauiApp1\obj\Debug\net8.0-android\MauiApp1.sourcelink.json
+E:\Soluciones.NET\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\add_circle.png
+E:\Soluciones.NET\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\play_circle.png

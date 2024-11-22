@@ -5,7 +5,8 @@
              xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
              android:TabbedPage.ToolbarPlacement="Bottom"
              x:Class="MauiApp1.Pages.TabbedPageT"
-             Title="TabbedPageT">
+             Title="TabbedPageT"
+             BackgroundColor="#191414">
 
     <local:Page/>
     <local:Page1/>

@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\",
+  "WorkspaceRootPath": "E:\\Soluciones.NET\\MauiApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\pages\\page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\pages\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\pages\\tabbedpaget.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\pages\\tabbedpaget.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\tabbedpaget.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\pages\\page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\pages\\page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\pages\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\pages\\page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\pages\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\pages\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\pages\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\pages\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:pages\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|c:\\users\\viamatica\\desktop\\mauiapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|e:\\soluciones.net\\mauiapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52B4E310-0FAD-4821-A295-C9F1EC248D62}|MauiApp1.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,24 +62,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-21T19:59:58.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page1.xaml.cs",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page1.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\Page1.xaml.cs",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page1.xaml.cs",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page1.xaml.cs",
               "RelativeToolTip": "Pages\\Page1.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page1.xaml",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page1.xaml",
               "RelativeDocumentMoniker": "Pages\\Page1.xaml",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page1.xaml",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page1.xaml",
               "RelativeToolTip": "Pages\\Page1.xaml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAEoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -100,11 +87,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Page2.xaml",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page2.xaml",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page2.xaml",
               "RelativeDocumentMoniker": "Pages\\Page2.xaml",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page2.xaml",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page2.xaml",
               "RelativeToolTip": "Pages\\Page2.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -113,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Page.xaml",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page.xaml",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page.xaml",
               "RelativeDocumentMoniker": "Pages\\Page.xaml",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page.xaml",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page.xaml",
               "RelativeToolTip": "Pages\\Page.xaml",
-              "ViewState": "AgIAAAMBAAAAAAAAAAAAAA4BAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAFQBAAAAMjMzMzMLwGABAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-21T03:41:52.729Z",
               "EditorCaption": ""
@@ -128,34 +115,59 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Page4.xaml",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page4.xaml",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page4.xaml",
               "RelativeDocumentMoniker": "Pages\\Page4.xaml",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page4.xaml",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page4.xaml",
               "RelativeToolTip": "Pages\\Page4.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-21T03:42:45.361Z"
+              "WhenOpened": "2024-11-21T03:42:45.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:39:57.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabbedPageT.xaml",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\Pages\\TabbedPageT.xaml",
+              "RelativeDocumentMoniker": "Pages\\TabbedPageT.xaml",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\Pages\\TabbedPageT.xaml",
+              "RelativeToolTip": "Pages\\TabbedPageT.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T04:07:21.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\MainPage.xaml.cs",
-              "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:39:57.322Z",
-              "EditorCaption": ""
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T19:59:58.737Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Page.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page.xaml.cs",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\Page.xaml.cs",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page.xaml.cs",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page.xaml.cs",
               "RelativeToolTip": "Pages\\Page.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,36 +175,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TabbedPageT.xaml",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\TabbedPageT.xaml",
-              "RelativeDocumentMoniker": "Pages\\TabbedPageT.xaml",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\TabbedPageT.xaml",
-              "RelativeToolTip": "Pages\\TabbedPageT.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-21T04:07:21.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Page3.xaml",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page3.xaml",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page3.xaml",
               "RelativeDocumentMoniker": "Pages\\Page3.xaml",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\Pages\\Page3.xaml",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\Pages\\Page3.xaml",
               "RelativeToolTip": "Pages\\Page3.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-21T03:42:28.448Z"
+              "WhenOpened": "2024-11-21T03:42:28.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\App.xaml.cs",
+              "DocumentMoniker": "E:\\Soluciones.NET\\MauiApp1\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\viamatica\\Desktop\\MauiApp1\\App.xaml.cs",
+              "ToolTip": "E:\\Soluciones.NET\\MauiApp1\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,6 +215,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
               "$type": "Bookmark",
