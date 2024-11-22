@@ -2101,3 +2101,9 @@ E:\Soluciones.NET\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\oip.j
 E:\Soluciones.NET\MauiApp1\obj\Debug\net8.0-android\MauiApp1.sourcelink.json
 E:\Soluciones.NET\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\add_circle.png
 E:\Soluciones.NET\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\play_circle.png
+C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\add_circle.png
+C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\play_circle.png
+C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\overview_key.png
+C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\search_white.png
+C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\overview_key_white.png
+C:\Users\viamatica\Desktop\MauiApp1\obj\Debug\net8.0-android\resizetizer\r\drawable\arrow_back_white.png

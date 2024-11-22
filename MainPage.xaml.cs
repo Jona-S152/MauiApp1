@@ -2,16 +2,16 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
         public MainPage()
         {
             InitializeComponent();
+
+            this.ContentArea.Content = new Pages.Page().Content;
         }
 
-        private async void ImageButton_Clicked(object sender, EventArgs e)
+        public async void ChangeContent(ContentPage page)
         {
-            await Navigation.PopModalAsync();
+            await Navigation.PushAsync(page);
         }
     }
 

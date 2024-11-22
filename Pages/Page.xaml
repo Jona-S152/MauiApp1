@@ -10,6 +10,16 @@
 
             <HorizontalStackLayout Spacing="10">
                 <Button CornerRadius="50"
+                        Text="J"
+                        BackgroundColor="#1db954"
+                        FontAttributes="Bold"
+                        TextTransform="Uppercase"
+                        Padding="5"
+                        TextColor="Black"
+                        HeightRequest="30"
+                        WidthRequest="30"
+                        />
+                <Button CornerRadius="50"
                         BackgroundColor="#1db954"
                         Text="Todos"
                         TextColor="Black"
@@ -48,7 +58,6 @@
                     BorderColor="#191414"
                     BackgroundColor="#252020"
                     Padding="0"
-                    HasShadow="True"
                     CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
                         <Image 
@@ -73,7 +82,6 @@
                     BackgroundColor="#252020" 
                     Grid.Column="1"
                     Padding="0"
-                    HasShadow="True"
                     BorderColor="#191414"
                     CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
@@ -98,7 +106,6 @@
                 <Frame
                     BackgroundColor="#252020" Grid.Row="1"
                     Padding="0"
-                    HasShadow="True"
                     BorderColor="#191414"
                     CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
@@ -123,7 +130,6 @@
                 <Frame
                     BackgroundColor="#252020" Grid.Row="1" Grid.Column="1"
                     Padding="0"
-                    HasShadow="True"
                     BorderColor="#191414"
                     CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
@@ -148,7 +154,6 @@
                 <Frame
                     BackgroundColor="#252020" Grid.Row="2"
                     Padding="0"
-                    HasShadow="True"
                     BorderColor="#191414"
                     CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
@@ -175,7 +180,6 @@
                     Grid.Row="2" 
                     Grid.Column="1"
                     Padding="0"
-                    HasShadow="True"
                     BorderColor="#191414"
                     CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
@@ -201,7 +205,6 @@
                     BackgroundColor="#252020" 
                     Grid.Row="3"
                     Padding="0"
-                    HasShadow="True"
                     BorderColor="#191414"
                     CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
@@ -228,7 +231,6 @@
                     Grid.Row="3" 
                     Grid.Column="1"
                     Padding="0"
-                    HasShadow="True"
                     BorderColor="#191414"
                     CornerRadius="5">
                     <HorizontalStackLayout Padding="0" Spacing="10">
@@ -322,7 +324,7 @@
 
                         <Label
                             Grid.Row="1"
-                            Text="Sencillo Billie Eilish"
+                            Text="Sencillo • Billie Eilish"
                             TextColor="Gray"/>
 
                         <AbsoluteLayout>
@@ -350,123 +352,115 @@
                 TextColor="White"
                 FontAttributes="Bold"/>
 
-            <HorizontalStackLayout Padding="0">
-                <Grid ColumnSpacing="20" RowSpacing="10">
-                    <Grid.RowDefinitions>
-                        <RowDefinition/>
-                        <RowDefinition/>
-                    </Grid.RowDefinitions>
+            <ScrollView Orientation="Horizontal" HeightRequest="300">
+                <HorizontalStackLayout Padding="0">
+                    <Grid ColumnSpacing="20" RowSpacing="10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
 
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                    </Grid.ColumnDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
 
-                    <Image 
-                        Margin="0"
-                        Source="oip.jpg"
-                        HeightRequest="150"
-                        WidthRequest="150"/>
+                        <Image 
+                            Margin="0"
+                            Source="oip.jpg"
+                            HeightRequest="150"
+                            WidthRequest="150"/>
 
-                    <Label 
-                        Grid.Row="1" 
-                        MaximumWidthRequest="80" 
-                        HorizontalOptions="Start" 
-                        Text="Prueba" 
-                        TextColor="Gray"/>
+                        <Label 
+                            Grid.Row="1" 
+                            MaximumWidthRequest="80" 
+                            HorizontalOptions="Start" 
+                            Text="Prueba" 
+                            TextColor="Gray"/>
                     
-                    <Image 
-                        Grid.Column="1"
-                        Margin="0"
-                        Source="oip.jpg"
-                        HeightRequest="150"
-                        WidthRequest="150"/>
+                        <Image 
+                            Grid.Column="1"
+                            Margin="0"
+                            Source="oip.jpg"
+                            HeightRequest="150"
+                            WidthRequest="150"/>
 
-                    <Label 
-                        Grid.Row="1"
-                        Grid.Column="1"
-                        MaximumWidthRequest="80" 
-                        HorizontalOptions="Start" 
-                        Text="Prueba" 
-                        TextColor="Gray"/>
+                        <Label 
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            MaximumWidthRequest="80" 
+                            HorizontalOptions="Start" 
+                            Text="Prueba" 
+                            TextColor="Gray"/>
                     
-                    <Image 
-                        Grid.Column="2"
-                        Margin="0"
-                        Source="oip.jpg"
-                        HeightRequest="150"
-                        WidthRequest="150"/>
+                        <Image 
+                            Grid.Column="2"
+                            Margin="0"
+                            Source="oip.jpg"
+                            HeightRequest="150"
+                            WidthRequest="150"/>
 
-                    <Label 
-                        Grid.Row="1" 
-                        Grid.Column="2"
-                        MaximumWidthRequest="80" 
-                        HorizontalOptions="Start" 
-                        Text="Prueba" 
-                        TextColor="Gray"/>
+                        <Label 
+                            Grid.Row="1" 
+                            Grid.Column="2"
+                            MaximumWidthRequest="80" 
+                            HorizontalOptions="Start" 
+                            Text="Prueba" 
+                            TextColor="Gray"/>
                     
-                    <Image 
-                        Grid.Column="3"
-                        Margin="0"
-                        Source="oip.jpg"
-                        HeightRequest="150"
-                        WidthRequest="150"/>
+                        <Image 
+                            Grid.Column="3"
+                            Margin="0"
+                            Source="oip.jpg"
+                            HeightRequest="150"
+                            WidthRequest="150"/>
 
-                    <Label 
-                        Grid.Row="1" 
-                        Grid.Column="3"
-                        MaximumWidthRequest="80" 
-                        HorizontalOptions="Start" 
-                        Text="Prueba" 
-                        TextColor="Gray"/>
+                        <Label 
+                            Grid.Row="1" 
+                            Grid.Column="3"
+                            MaximumWidthRequest="80" 
+                            HorizontalOptions="Start" 
+                            Text="Prueba" 
+                            TextColor="Gray"/>
                     
-                    <Image 
-                        Grid.Column="4"
-                        Margin="0"
-                        Source="oip.jpg"
-                        HeightRequest="150"
-                        WidthRequest="150"/>
+                        <Image 
+                            Grid.Column="4"
+                            Margin="0"
+                            Source="oip.jpg"
+                            HeightRequest="150"
+                            WidthRequest="150"/>
 
-                    <Label 
-                        Grid.Row="1"
-                        Grid.Column="4"
-                        MaximumWidthRequest="80" 
-                        HorizontalOptions="Start" 
-                        Text="Prueba" 
-                        TextColor="Gray"/>
+                        <Label 
+                            Grid.Row="1"
+                            Grid.Column="4"
+                            MaximumWidthRequest="80" 
+                            HorizontalOptions="Start" 
+                            Text="Prueba" 
+                            TextColor="Gray"/>
                     
-                    <Image 
-                        Grid.Column="5"
-                        Margin="0"
-                        Source="oip.jpg"
-                        HeightRequest="150"
-                        WidthRequest="150"/>
+                        <Image 
+                            Grid.Column="5"
+                            Margin="0"
+                            Source="oip.jpg"
+                            HeightRequest="150"
+                            WidthRequest="150"/>
 
-                    <Label 
-                        Grid.Row="1" 
-                        Grid.Column="5"
-                        MaximumWidthRequest="80" 
-                        HorizontalOptions="Start" 
-                        Text="Prueba" 
-                        TextColor="Gray"/>
+                        <Label 
+                            Grid.Row="1" 
+                            Grid.Column="5"
+                            MaximumWidthRequest="80" 
+                            HorizontalOptions="Start" 
+                            Text="Prueba" 
+                            TextColor="Gray"/>
 
-                </Grid>
-            </HorizontalStackLayout>
+                    </Grid>
+                </HorizontalStackLayout>
+            </ScrollView>
 
-            <Button 
-                x:Name="btnMainPage"
-                CornerRadius="50"
-                Text="Go to main page"
-                TextColor="Black"
-                FontAttributes="Bold"
-                BackgroundColor="#1db954"
-                Margin="10"
-                HorizontalOptions="Center"
-                Clicked="btnMainPage_Clicked"/>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.Views.CustomNavigationBar">
+    <Frame
+        WidthRequest="300"
+        HeightRequest="60"
+        Margin="20"
+        Padding="0"
+        BackgroundColor="#252020"
+        BorderColor="#191414"
+        CornerRadius="50">
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <ImageButton
+                Source="home.png"
+                HorizontalOptions="Start"
+                WidthRequest="40"
+                HeightRequest="40"
+                CornerRadius="50"
+                Padding="5"
+                Margin="20"
+                Clicked="HomeButton_Clicked"/>
+
+            <ImageButton
+                Grid.Column="1"
+                Source="search_white.png"
+                HorizontalOptions="Center"
+                WidthRequest="40"
+                HeightRequest="40"
+                CornerRadius="50"
+                Padding="5"
+                Margin="20"
+                Clicked="SearchButton_Clicked_1"/>
+
+            <ImageButton
+                Grid.Column="2"
+                Source="overview_key_white.png"
+                HorizontalOptions="End"
+                WidthRequest="40"
+                HeightRequest="40"
+                CornerRadius="50"
+                Padding="5"
+                Margin="20"
+                Clicked="OverviewKeyButton_Clicked_2"/>
+        </Grid>
+    </Frame>
+</ContentView>

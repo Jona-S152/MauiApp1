@@ -8,7 +8,7 @@ namespace MauiApp1
         {
             InitializeComponent();
 
-            MainPage = new TabbedPageT();
+            MainPage = new NavigationPage(new MainPage());
         }
     }
 }

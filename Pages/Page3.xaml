@@ -2,10 +2,11 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp1.Pages.Page3"
-             IconImageSource="comment.png">
+             IconImageSource="overview_key.png">
     <VerticalStackLayout>
         <Label 
             Text="Welcome to .NET MAUI! Page 3"
+            TextColor="White"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>

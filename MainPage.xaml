@@ -1,39 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MauiApp1.MainPage">
+             xmlns:local="clr-namespace:MauiApp1.Pages"
+             xmlns:views="clr-namespace:MauiApp1.Views"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="MauiApp1.MainPage"
+             BackgroundColor="#191414">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Padding="0"
-            Spacing="25">
-            <AbsoluteLayout>
-                <ImageButton
-                    AbsoluteLayout.LayoutBounds="0, 4, 50, 30"
-                    AbsoluteLayout.LayoutFlags="PositionProportional"
-                    WidthRequest="40"
-                    HeightRequest="40"
-                    Source="arrow_back.png"
-                    Clicked="ImageButton_Clicked"/>
-            </AbsoluteLayout>
-            <Image
-                Source="dotnet_bot.png"
-                HeightRequest="185"
-                Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a race car number eight" />
+    <AbsoluteLayout>
+        <ContentView
+            x:Name="ContentArea"
+            AbsoluteLayout.LayoutFlags="All"
+            AbsoluteLayout.LayoutBounds="0, 0, 1, 1"/>
 
-            <Label
-                Text="Hello, World!"
-                Style="{StaticResource Headline}"
-                SemanticProperties.HeadingLevel="Level1" />
 
-            <Label
-                Text="Welcome to &#10;.NET Multi-platform App UI"
-                Style="{StaticResource SubHeadline}"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
-
-        </VerticalStackLayout>
-    </ScrollView>
-
+        <views:CustomNavigationBar
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            AbsoluteLayout.LayoutBounds="0.5, 1"/>
+    </AbsoluteLayout>
 </ContentPage>

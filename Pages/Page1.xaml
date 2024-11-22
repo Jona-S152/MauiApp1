@@ -2,13 +2,13 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp1.Pages.Page1"
-             IconImageSource="search.png">
+             IconImageSource="search.png"
+             Shell.NavBarIsVisible="False">
     <ScrollView>
         <VerticalStackLayout>
             <Frame
-                HasShadow="True"
-                BackgroundColor="LightCyan"
-                BorderColor="LightCyan"
+                BackgroundColor="#191414"
+                BorderColor="#191414"
                 Margin="0"
                 Padding="0"
                 CornerRadius="0">
@@ -20,17 +20,18 @@
                         Margin="10"
                         WidthRequest="30"
                         HeightRequest="30"
-                        Source="search.png"
+                        Source="search_white.png"
                         Clicked="ImageButton_Clicked"/>
 
                     <Label
                         Text="Search..."
+                        TextColor="White"
                         VerticalOptions="Center"
                         HorizontalOptions="Fill"/>
                 </HorizontalStackLayout>
             </Frame>
 
-            
+
 
             <Grid RowSpacing="2" ColumnSpacing="2" Margin="2">
                 <Grid.RowDefinitions>
